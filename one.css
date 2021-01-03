@@ -477,9 +477,9 @@ body {
     width: auto; }
 
   #longs, #shorts, #sayings, #sharps {
-    font-size: 2em;
+/*    font-size: 2em;*/
     bottom: 0px;
-    height: 36px;
+/*    height: 36px;*/
     bottom: 29px; } }
 @media only screen and (max-width: 448px) {
   h1 {
