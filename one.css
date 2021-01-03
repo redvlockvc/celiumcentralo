@@ -367,7 +367,7 @@ body {
 #sayings:hover,
 #sharps:hover,
 #longs:hover {
-  background-color: #7FDBFF !important;
+  background-color: orange !important;
   opacity: 0.9; }
 
 #fp-nav,
@@ -395,7 +395,7 @@ body {
 
 #moveUp,
 #moveDown {
-  background-color: #7FDBFF !important;
+  background-color: #C7A87F !important;
   position: absolute;
   bottom: 15px;
   right: 30px;
