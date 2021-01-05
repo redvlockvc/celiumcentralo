@@ -60,8 +60,8 @@ var stories = [];
             slidesNavPosition: 'bottom',
             continuousVertical:true,     
             afterLoad: function(anchorLink, index){
-                $('#menu li').css('border-top', "2px solid transparent");          
-                $('#'+anchorLink).css('border-top', "2px solid #7FDBFF");   
+                $('#menu li').css('border-top', "5px solid transparent");          
+                $('#'+anchorLink).css('border-top', "5px solid orange ");   
             }
         });
     }
